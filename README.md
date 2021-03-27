@@ -9,6 +9,7 @@
 ---
 
 ## How to Run :
+###### - First Clone or download the repo
 
 ###### - npm install(For installing all dependencies)
 
